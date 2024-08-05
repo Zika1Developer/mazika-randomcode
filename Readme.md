@@ -12,5 +12,5 @@ const CodeResult = CodeName.addOptions({
   Symbols: true, //Optional
 }).create();
 
-conosle.log(CodeResult);
+console.log(CodeResult);
 ```
