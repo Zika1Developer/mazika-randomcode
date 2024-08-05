@@ -1,7 +1,7 @@
 {
     "name": "mazika-randomcode",
     "version": "1.0.4",
-    "description": "mazika-fonts is a library that provides different decorative fonts.",
+    "description": "mazika-randomcode is a library that create random text/code.",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
